@@ -1,0 +1,24 @@
+{
+  "name": "fastify-scaffold",
+  "version": "1.0.0",
+  "description": "simple example for using fastify",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amir-yaghoobi/fastify-scaffold.git"
+  },
+  "keywords": [],
+  "author": "Amirhossein yaghoobi <a.yaghoobi.dev@gmail.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/amir-yaghoobi/fastify-scaffold/issues"
+  },
+  "homepage": "https://github.com/amir-yaghoobi/fastify-scaffold#readme",
+  "dependencies": {
+    "fastify": "^1.11.1"
+  }
+}
